@@ -1,4 +1,4 @@
-*Stock-Movement-prediction-Using-Machine-Learning-Model-K-Means-Clustering
+#Stock-Movement-prediction-Using-Machine-Learning-Model-K-Means-Clustering
 
 #Methodology 
  ##Kmeans Clustering Algorithm
