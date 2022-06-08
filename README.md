@@ -74,4 +74,4 @@ In conclusion, The K-Means clustering algorithm can be thought of as Good becaus
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [OVGU-PROF] License - see the LICENSE.md file for details
